@@ -3,7 +3,7 @@
 
   🎓 Engenharia de Computação - UFGD - Dourados/MS
   
-  💻 Desenvolvedor FullStack Jr. - Pax Primavera - Dourados/MS
+  💻 Desenvolvedor FullStack - Pax Primavera - Dourados/MS
 
  <div>
    <a href="https://github.com/matheuscimatti">
